@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -30,3 +31,18 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+=======
+# IntelliJ IDEA
+.idea/
+*.iml
+
+out/
+target/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+>>>>>>> 8e2f91b7f8f3e18b408b79dfcd63760a2895e7ea
